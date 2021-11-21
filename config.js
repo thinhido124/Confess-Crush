@@ -4,7 +4,7 @@
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
    <link rel="shortcut icon" href="http://imgur.com/tu7Lr95.jpg" >
-    <title>Em iu cj nhìu lắm</title>
+    <title>Hoàng Thị Mỹ Hiền mày ngáo đá lắm đúng ko ? </title>
      <meta property="og:image" content="sc.PNG">
      
         
@@ -150,7 +150,7 @@
       <div class="modal-body">
           
           <p class="love-you-know"> TRỜI,BIẾT MÀ :D<span class="heart"></span></p>
-       		<p class="love-you-know1">úi ngại ghê em cx yêu cj nhìu lắm hihi. </p>
+       		<p class="love-you-know1">úi mài chơi đá lâu thế rồi luôn à. </p>
       </div>
   </div>
 
@@ -160,7 +160,7 @@
 <div class="love-wrap">
 
 
-    <h1> <b>em yêu cj lắm òi cj có iu em hk ?</b></h1>
+    <h1> <b>Hoàng Thị Mỹ Hiền mày ngáo đá bao lâu rồi ?</b></h1>
     <div class="love-content">
         <button class="love-btn love-btn-one btn btn-default" data-status="6">KHÔNG</button>
         <button class="love-btn love-btn-two btn btn-default" data-status="5" style="top: 80px;">TÔI CÓ</button>
@@ -170,7 +170,7 @@
 	
 </div>
 <div style="text-align: center">
-	<p>&copy; Copyright by <a href="https://www.facebook.com/PhungQuocDinh">Phùng Quốc Định</a> &#124; <a href="https://www.youtube.com/channel/UCwXIeWhUBsUDkSMzUW_sazA">Youtube</a></p>
+	<p>&copy; Copyright by <a href="https://www.facebook.com/khai.dvfb">Phan Văn Khải</a> &#124; <a href="https://www.youtube.com/">Youtube</a></p>
 	<iframe src="http://www.nhaccuatui.com/mh/background/G2Fil0oSQeHm" width="1" height="1" frameborder="0" allowfullscreen></iframe>
 	<audio autoplay>
 		
